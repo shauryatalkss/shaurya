@@ -15,6 +15,10 @@
 * [Decision Making (Control Statement)](https://www.geeksforgeeks.org/decision-making-javaif-else-switch-break-continue-jump/)
 * [Loops](https://www.geeksforgeeks.org/loops-in-java/)
 * [Methods](https://www.w3schools.com/java/java_methods.asp)
+* [Arrays](https://www.w3schools.com/java/java_arrays.asp)
+  * [Array Loop](https://www.w3schools.com/java/java_arrays_loop.asp)
+  * [Multidimensional Array](https://www.w3schools.com/java/java_arrays_multi.asp)
+* [Classes & Objects](https://www.javatpoint.com/object-and-class-in-java)
 ---
 ### JAVA PROGRAMMING PRACTICE
 
