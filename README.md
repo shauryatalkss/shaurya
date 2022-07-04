@@ -14,6 +14,7 @@
 * [Operator](https://www.geeksforgeeks.org/operators-in-java/)
 * [Decision Making (Control Statement)](https://www.geeksforgeeks.org/decision-making-javaif-else-switch-break-continue-jump/)
 * [Loops](https://www.geeksforgeeks.org/loops-in-java/)
+* [Methods](https://www.w3schools.com/java/java_methods.asp)
 ---
 ### JAVA PROGRAMMING PRACTICE
 
