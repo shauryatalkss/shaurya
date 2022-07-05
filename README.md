@@ -26,6 +26,7 @@
 
 * [Fibonacci Series](https://www.javatpoint.com/fibonacci-series-in-java)
 * [Prime Number](https://www.javatpoint.com/prime-number-program-in-java)
+* [Reverse a Number](https://www.javatpoint.com/how-to-reverse-a-number-in-java)
 * [Palindrome Number](https://www.javatpoint.com/palindrome-program-in-java)
 * [Factorial Number](https://www.javatpoint.com/factorial-program-in-java)
 * [Armstrong Number](https://www.javatpoint.com/armstrong-number-in-java)
