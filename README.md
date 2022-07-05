@@ -11,7 +11,7 @@
 * [Datatypes](https://www.geeksforgeeks.org/data-types-in-java/)
 * [Variables](https://www.geeksforgeeks.org/variables-in-java/)
 * [Keywords](https://www.geeksforgeeks.org/list-of-all-java-keywords/)
-* [Operator](https://www.geeksforgeeks.org/operators-in-java/)
+* [Operator](https://www.geeksforgeeks.org/operators-in-java/) - Arithmetic, Unary, Assignment, Relational, Logical, Ternary, Bitwise, Shift, InstanceOf
 * [Decision Making (Control Statement)](https://www.geeksforgeeks.org/decision-making-javaif-else-switch-break-continue-jump/)
 * [Loops](https://www.geeksforgeeks.org/loops-in-java/)
 * [Methods](https://www.w3schools.com/java/java_methods.asp)
