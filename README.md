@@ -25,7 +25,7 @@
 #### SET 1
 
 * [Fibonacci Series](https://www.javatpoint.com/fibonacci-series-in-java)
-
+* [Prime Number](https://www.javatpoint.com/prime-number-program-in-java)
 --- 
 
 
