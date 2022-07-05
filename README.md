@@ -6,6 +6,9 @@
 
 ### JAVA BASICS
 * [Java Environment](https://www.geeksforgeeks.org/setting-environment-java/)
+   * JVM
+   * JDK
+   * JRE
 * [Java Basics Syntax](https://www.geeksforgeeks.org/java-hello-world-program/)
 * [Comments in Java](https://www.geeksforgeeks.org/comments-in-java/)
 * [Datatypes](https://www.geeksforgeeks.org/data-types-in-java/)
