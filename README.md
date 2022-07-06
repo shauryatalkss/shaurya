@@ -75,4 +75,11 @@
 * [Count Total Punctuation Characters](https://www.javatpoint.com/java-program-to-count-the-total-number-of-punctuation-characters-exists-in-a-string)
 * [Count Total Vowel & Consonant](https://www.javatpoint.com/java-program-to-count-the-total-number-of-vowels-and-consonants-in-a-string)
 * [Anagram Strings Check](https://www.javatpoint.com/java-program-to-determine-whether-two-strings-are-the-anagram)
-* 
+* [Divide String in 'N' Equal Parts](https://www.javatpoint.com/java-program-to-divide-a-string-in-n-equal-parts)
+* [All Substring of String](https://www.javatpoint.com/java-program-to-find-all-subsets-of-a-string)
+* [Longest Repeating Sequence](https://www.javatpoint.com/java-program-to-find-the-longest-repeating-sequence-in-a-string)
+* [Remove all White Spaces](https://www.javatpoint.com/java-program-to-remove-all-the-white-spaces-from-a-string)
+* [Lower To Upper & Vice-Versa](https://www.javatpoint.com/java-program-to-replace-lower-case-characters-with-upper-case-and-vice-versa)
+* [Check Palindrome](https://www.javatpoint.com/java-program-to-determine-whether-a-given-string-is-palindrome)
+* [Check For Rotation](https://www.javatpoint.com/java-program-to-determine-whether-one-string-is-a-rotation-of-another)
+
