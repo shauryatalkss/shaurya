@@ -1,7 +1,7 @@
 ## ROADMAP
 * [JAVA BASICS](#java-basics)
 * [PROGRAMMING PRACTICE](#java-programming-practice)
-  * [BASIC & NUMBERS]
+ 
 
 ---
 
