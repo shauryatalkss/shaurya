@@ -93,7 +93,7 @@
 * [Reverse String With Function](https://www.javatpoint.com/how-to-reserve-a-string-in-java-without-using-reverse-function)
 
 ---
-#### SET 3 (PATTERN BASED)
+#### SET 3 (MISC)
 
 * [30 Pattern Program Series](https://www.edureka.co/blog/30-pattern-programs-in-java/)
 
