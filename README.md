@@ -3,6 +3,7 @@
 * [PROGRAMMING PRACTICE](#java-programming-practice)
   * [Basics & Numbers](#set-1-basics--numbers)
   * [Play With Strings](#set-2-play-with-strings)
+  * [Miscellaneous](#set-3-misc)
  
 
 ---
