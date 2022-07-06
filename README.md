@@ -69,3 +69,5 @@
 --- 
 #### SET 2 (PLAY WITH STRINGS)
 
+* [Total No. of Characters Count](https://www.javatpoint.com/java-program-to-count-the-total-number-of-characters-in-a-string)
+* 
