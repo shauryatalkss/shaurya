@@ -92,3 +92,10 @@
 * [Swap 2 Strings Without 3rd](https://www.javatpoint.com/java-program-to-swap-two-string-variables-without-using-third-or-temp-variable)
 * [Reverse String With Function](https://www.javatpoint.com/how-to-reserve-a-string-in-java-without-using-reverse-function)
 
+---
+#### SET 3 (PATTERN BASED)
+
+* [30 Pattern Program Series](https://www.edureka.co/blog/30-pattern-programs-in-java/)
+
+---
+
