@@ -82,4 +82,12 @@
 * [Lower To Upper & Vice-Versa](https://www.javatpoint.com/java-program-to-replace-lower-case-characters-with-upper-case-and-vice-versa)
 * [Check Palindrome](https://www.javatpoint.com/java-program-to-determine-whether-a-given-string-is-palindrome)
 * [Check For Rotation](https://www.javatpoint.com/java-program-to-determine-whether-one-string-is-a-rotation-of-another)
+* [Maximum & Minimum Occuring Characters](https://www.javatpoint.com/java-program-to-find-maximum-and-minimum-occurring-character-in-a-string)
+* [Reverse of String](https://www.javatpoint.com/java-program-to-find-reverse-of-the-string)
+* [Duplicate Character in String](https://www.javatpoint.com/java-program-to-find-the-duplicate-characters-in-a-string)
+* [Frequency of Character in String](https://www.javatpoint.com/java-program-to-find-the-frequency-of-characters)
+* [Duplicate Word in String](https://www.javatpoint.com/java-program-to-find-the-duplicate-words-in-a-string)
+* [Largest & Smallest Word in String](https://www.javatpoint.com/java-program-to-find-the-largest-and-smallest-word-in-a-string)
+* [Seperate Individual Character in String](https://www.javatpoint.com/java-program-to-separate-the-individual-characters-from-a-string)
+* [Swap 2 Strings Without 3rd](https://www.javatpoint.com/java-program-to-swap-two-string-variables-without-using-third-or-temp-variable)
 
