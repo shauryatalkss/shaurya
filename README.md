@@ -25,11 +25,14 @@
 #### SET 1 (BASICS & NUMBERS)
 
 * [Fibonacci Series](https://www.javatpoint.com/fibonacci-series-in-java)
+* [Sum of Natural Number](https://www.javatpoint.com/java-program-to-find-sum-of-natural-numbers)
 * [Prime Number](https://www.javatpoint.com/prime-number-program-in-java)
+* [nTH Prime Number](https://www.javatpoint.com/nth-prime-number-java)
 * [Reverse a Number](https://www.javatpoint.com/how-to-reverse-a-number-in-java)
 * [Palindrome Number](https://www.javatpoint.com/palindrome-program-in-java)
 * [Factorial Number](https://www.javatpoint.com/factorial-program-in-java)
 * [Armstrong Number](https://www.javatpoint.com/armstrong-number-in-java)
+* [Armstrong Number Between 2 Interval](https://www.programiz.com/java-programming/examples/armstrong-number-interval)
 * [Generate Random Number](https://www.javatpoint.com/how-to-generate-random-number-in-java)
 * [Peterson Number](https://www.javatpoint.com/peterson-number-in-java)
 * [Sunny Number](https://www.javatpoint.com/sunny-number-in-java)
@@ -48,7 +51,20 @@
 * [Duck Number](https://www.javatpoint.com/duck-number-java)
 * [Evil Number](https://www.javatpoint.com/evil-number-java)
 * [ISBN Number](javatpoint.com/isbn-number-java)
+* [Krishnamurthy Number](https://www.javatpoint.com/krishnamurthy-number-java)
+* [Bouncy Number](https://www.javatpoint.com/bouncy-number-in-java)
+* [Smith Number](https://www.javatpoint.com/smith-number-in-java)
+* [Strontio Number](https://www.javatpoint.com/strontio-number-in-java)
+* [Xylem & Phloem Number](https://www.javatpoint.com/xylem-and-phloem-number-in-java)
+* [Alternate Prime Number](https://www.javatpoint.com/java-program-to-display-alternate-prime-numbers)
+* [Square Root of a Number](https://www.javatpoint.com/java-program-to-find-square-root-of-a-number-without-sqrt-method)
+* [GCD of Two Number](https://www.javatpoint.com/java-program-to-find-gcd-of-two-numbers)
+* [Largest of Three Number](https://www.javatpoint.com/java-program-to-find-largest-of-three-numbers)
+* [Smallest of Three Number](javatpoint.com/java-program-to-find-smallest-of-three-numbers-using-ternary-operator)
+* [Perfect Square](https://www.javatpoint.com/java-program-to-check-if-a-given-number-is-perfect-square)
+* [Odd Number](https://www.javatpoint.com/java-program-to-display-odd-numbers-from-1-to-100)
+* [Leap Year](https://www.programiz.com/java-programming/examples/leap-year)
 
 --- 
-
+#### SET 2 (PLAY WITH STRINGS)
 
