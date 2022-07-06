@@ -74,4 +74,5 @@
 * [Total No. of Characters Count](https://www.javatpoint.com/java-program-to-count-the-total-number-of-characters-in-a-string)
 * [Count Total Punctuation Characters](https://www.javatpoint.com/java-program-to-count-the-total-number-of-punctuation-characters-exists-in-a-string)
 * [Count Total Vowel & Consonant](https://www.javatpoint.com/java-program-to-count-the-total-number-of-vowels-and-consonants-in-a-string)
-* []
+* [Anagram Strings Check](https://www.javatpoint.com/java-program-to-determine-whether-two-strings-are-the-anagram)
+* 
